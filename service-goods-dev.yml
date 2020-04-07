@@ -1,0 +1,12 @@
+server:
+  port: 5000
+
+spring:
+  application:
+    name: service-goods
+
+data:
+  env: service-goods-dev
+  user:
+    username: eureka-client-user
+    password: 1291029102
